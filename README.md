@@ -2,6 +2,10 @@
 
 A desktop application for interacting with Nyaa. 
 
+## Downloads
+
+Pre-built versions for Windows can be found on the [Releases page](https://github.com/flotnsq/nyaa-desktop/releases).
+
 ## Features
 
 - Browse and search torrents from Nyaa
