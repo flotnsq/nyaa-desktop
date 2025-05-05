@@ -1,0 +1,8 @@
+PyQt6
+aiohttp
+beautifulsoup4
+requests
+PySide6
+cloudscraper
+qtawesome
+pyperclip
