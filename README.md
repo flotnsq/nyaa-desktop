@@ -10,7 +10,6 @@ Pre-built versions for Windows can be found on the [Releases page](https://githu
 
 - Browse and search torrents from Nyaa
 - View torrent details
-- [Add other features here]
 
 ## Setup
 
