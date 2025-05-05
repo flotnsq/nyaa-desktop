@@ -29,4 +29,3 @@ A desktop application for interacting with Nyaa.
 1. Launch the application.
 2. Use the search bar to find torrents.
 3. Double-click a result to view details.
-4. [Add more usage instructions here] 
